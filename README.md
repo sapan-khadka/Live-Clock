@@ -1,36 +1,68 @@
-# Live-Clock
-# Digital Clock ⏰
+# Live Clock
 
-[![GitHub stars](https://img.shields.io/github/stars/sapan-khadka/digital-clock?style=social)](https://github.com/sapan-khadka/digital-clock)
-[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+## Overview
+Live Clock is a simple real-time clock application that displays the current time dynamically. It is designed to provide an accurate, constantly updating clock with a clean user interface.
 
-A beautiful, feature-rich digital clock with alarm functionality built with HTML, CSS, and JavaScript.
+## Features
+- Displays real-time updates of the current time.
+- User-friendly interface.
+- Lightweight and efficient.
+- Built using HTML, CSS, and JavaScript.
 
-![Demo Screenshot](![Screenshot 2025-04-01 152916](https://github.com/user-attachments/assets/f16f7836-405f-467b-afd1-635c3b534431)
-) 
-# Live-Clock
+## Screenshots
+Below are screenshots of the Live Clock application:
 
-[![GitHub issues](https://img.shields.io/github/issues/sapan-khadka/repo)](https://github.com/sapan-khadka/repo/issues)
-[![GitHub forks](https://img.shields.io/github/forks/sapan-khadka/repo)](https://github.com/sapan-khadka/repo/network)
-[![GitHub license](https://img.shields.io/github/license/sapan-khadka/repo)](https://github.com/sapan-khadka/repo/blob/master/LICENSE)
-## 🎥 Demo
+### Home Screen
+![Live Clock Screenshot](images/clock.png)
 
-![Demo GIF](demo.gif) <!-- Record your project in action -->
-## ✨ Features
 
-- Real-time digital clock with seconds precision
-- Toggle between 12-hour and 24-hour formats
-- Fully functional alarm system with audio notification
-- Show/hide seconds display
-- Responsive design works on all devices
-- Keyboard shortcuts for quick control
-## 🛠️ Installation
-## 🔧 Technologies Used
+### Running Clock
+![Live Clock Running](images/clock.png)
 
-- HTML5
-- CSS3 (with animations)
-- JavaScript (ES6)
-  ## 👨‍💻 Author
-Sapan Khadka
-[LinkedIn](https://www.linkedin.com/in/sapan-khadka-a58b072b0/)
+## Installation
+To set up the project locally, follow these steps:
 
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/sapan-khadka/Live-Clock.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Live-Clock
+   ```
+3. Open `index.html` in a web browser.
+
+## Usage
+- After opening `index.html`, the clock will start displaying the current time.
+- The time updates every second to ensure accuracy.
+
+## Technologies Used
+- **HTML**: Structure of the application.
+- **CSS**: Styling for the clock interface.
+- **JavaScript**: Logic for updating the time dynamically.
+
+## Code Structure
+The project consists of the following main files:
+
+- `index.html` - The main HTML file containing the structure of the clock.
+- `style.css` - Contains the styles for a visually appealing clock display.
+- `script.js` - JavaScript file that updates the time dynamically.
+
+## Contributing
+If you'd like to contribute:
+1. Fork the repository.
+2. Create a new branch for your feature:
+   ```sh
+   git checkout -b feature-name
+   ```
+3. Make changes and commit:
+   ```sh
+   git commit -m "Add new feature"
+   ```
+4. Push to your fork and submit a pull request.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute it.
+
+## Contact
+For any issues or suggestions, please open an issue in the repository or contact the author at [GitHub Profile](https://github.com/sapan-khadka).
