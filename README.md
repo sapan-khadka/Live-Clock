@@ -60,9 +60,3 @@ If you'd like to contribute:
    git commit -m "Add new feature"
    ```
 4. Push to your fork and submit a pull request.
-
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute it.
-
-## Contact
-For any issues or suggestions, please open an issue in the repository or contact the author at [GitHub Profile](https://github.com/sapan-khadka).
